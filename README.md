@@ -33,19 +33,14 @@ The auto-installer natively supports:
    Create a new file named `latex_builder.sh` on your system and paste the script code into it.
    
    *Alternatively, download it via terminal:*
-   ```bash
-   curl -O https://raw.githubusercontent.com/YOUR_USERNAME/latex-to-pdf/main/latex_builder.sh
-   ```
-
-2. **Make the script executable:**
-   ```bash
-   chmod +x latex_builder.sh
-   ```
-
-3. **Run the tool:**
-   ```bash
-   ./latex_builder.sh
-   ```
+```bash
+curl -O https://raw.githubusercontent.com/mikey-7x/latex-to-pdf/refs/heads/main/ltp.sh
+chmod +x ltp.sh
+```
+2. **Run the tool:**
+```bash
+   ./ltp.sh
+```
    *Note: On its first run, the script may ask for `sudo` password to install required TeX Live packages depending on your OS.*
 
 ---
