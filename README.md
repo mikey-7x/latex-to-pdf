@@ -94,3 +94,8 @@ tr -cd '\11\12\15\40-\176' < latex_builder.sh > clean.sh && mv clean.sh latex_bu
 **GitHub:** [github.com/mikey-7x](https://github.com/mikey-7x)  
 **License:** [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 **Date:** 10 September 2026 
+
+---
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
