@@ -34,12 +34,13 @@ The auto-installer natively supports:
    
    *Alternatively, download it via terminal:*
 ```bash
-curl -O https://raw.githubusercontent.com/mikey-7x/latex-to-pdf/refs/heads/main/ltp.sh
-chmod +x ltp.sh
+curl -O
+https://raw.githubusercontent.com/mikey-7x/latex-to-pdf/refs/heads/main/ltp_update.sh
+chmod +x ltp_update.sh
 ```
 2. **Run the tool:**
 ```bash
-   ./ltp.sh
+   ./ltp_update.sh
 ```
    *Note: On its first run, the script may ask for `sudo` password to install required TeX Live packages depending on your OS.*
 
